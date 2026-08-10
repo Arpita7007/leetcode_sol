@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Arpita7007/leetcode_sol/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Arpita7007/leetcode_sol/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
