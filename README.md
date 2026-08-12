@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Arpita7007/leetcode_sol/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Arpita7007/leetcode_sol/tree/master/0217-contains-duplicate) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Arpita7007/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
