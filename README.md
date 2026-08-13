@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Arpita7007/leetcode_sol/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Arpita7007/leetcode_sol/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpita7007/leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Arpita7007/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arpita7007/leetcode_sol/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpita7007/leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
@@ -30,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Arpita7007/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arpita7007/leetcode_sol/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Arpita7007/leetcode_sol/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Arpita7007/leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
