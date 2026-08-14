@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Arpita7007/leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpita7007/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arpita7007/leetcode_sol/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Arpita7007/leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Arpita7007/leetcode_sol/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arpita7007/leetcode_sol/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpita7007/leetcode_sol/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Arpita7007/leetcode_sol/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
