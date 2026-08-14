@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Arpita7007/leetcode_sol/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arpita7007/leetcode_sol/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Arpita7007/leetcode_sol/tree/master/0509-fibonacci-number) |
+| [2652-sum-multiples](https://github.com/Arpita7007/leetcode_sol/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
 | ------- |
