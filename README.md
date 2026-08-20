@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Arpita7007/leetcode_sol/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpita7007/leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Arpita7007/leetcode_sol/tree/master/0226-invert-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Arpita7007/leetcode_sol/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -152,4 +153,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Arpita7007/leetcode_sol/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpita7007/leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Arpita7007/leetcode_sol/tree/master/0226-invert-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Arpita7007/leetcode_sol/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Arpita7007/leetcode_sol/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
