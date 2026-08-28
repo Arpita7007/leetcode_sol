@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpita7007/leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arpita7007/leetcode_sol/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Arpita7007/leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Arpita7007/leetcode_sol/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arpita7007/leetcode_sol/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpita7007/leetcode_sol/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpita7007/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpita7007/leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Arpita7007/leetcode_sol/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Arpita7007/leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
