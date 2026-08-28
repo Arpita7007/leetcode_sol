@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Arpita7007/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Arpita7007/leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpita7007/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arpita7007/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpita7007/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpita7007/leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpita7007/leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Arpita7007/leetcode_sol/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
