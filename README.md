@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Arpita7007/leetcode_sol/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Arpita7007/leetcode_sol/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpita7007/leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arpita7007/leetcode_sol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arpita7007/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arpita7007/leetcode_sol/tree/master/0238-product-of-array-except-self) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Arpita7007/leetcode_sol/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpita7007/leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpita7007/leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Arpita7007/leetcode_sol/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Arpita7007/leetcode_sol/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpita7007/leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
