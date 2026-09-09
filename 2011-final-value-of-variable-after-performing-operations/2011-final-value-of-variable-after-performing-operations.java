@@ -1,5 +1,6 @@
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
+        //approach1
         int count = 0;
 
         for(String ans : operations){
@@ -9,7 +10,8 @@ class Solution {
                 count--;
             }
         }
-        return count;
+            return count;
+        
 
         // approach 2
         // int x = 0;
