@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Arpita7007/leetcode_sol/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpita7007/leetcode_sol/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arpita7007/leetcode_sol/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arpita7007/leetcode_sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/Arpita7007/leetcode_sol/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpita7007/leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arpita7007/leetcode_sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0209-minimum-size-subarray-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arpita7007/leetcode_sol/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arpita7007/leetcode_sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Simulation
 |  |
 | ------- |
