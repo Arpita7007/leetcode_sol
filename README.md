@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Arpita7007/leetcode_sol/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpita7007/leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Arpita7007/leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Arpita7007/leetcode_sol/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Arpita7007/leetcode_sol/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Arpita7007/leetcode_sol/tree/master/0922-sort-array-by-parity-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Arpita7007/leetcode_sol/tree/master/1248-count-number-of-nice-subarrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Arpita7007/leetcode_sol/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpita7007/leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Arpita7007/leetcode_sol/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Arpita7007/leetcode_sol/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Arpita7007/leetcode_sol/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arpita7007/leetcode_sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Arpita7007/leetcode_sol/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Arpita7007/leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Arpita7007/leetcode_sol/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Arpita7007/leetcode_sol/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arpita7007/leetcode_sol/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arpita7007/leetcode_sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
