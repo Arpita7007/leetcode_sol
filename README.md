@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arpita7007/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arpita7007/leetcode_sol/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
+| [0523-continuous-subarray-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Arpita7007/leetcode_sol/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpita7007/leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Arpita7007/leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arpita7007/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arpita7007/leetcode_sol/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
+| [0523-continuous-subarray-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Arpita7007/leetcode_sol/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpita7007/leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Arpita7007/leetcode_sol/tree/master/0567-permutation-in-string) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Arpita7007/leetcode_sol/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arpita7007/leetcode_sol/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Arpita7007/leetcode_sol/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Arpita7007/leetcode_sol/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arpita7007/leetcode_sol/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2652-sum-multiples](https://github.com/Arpita7007/leetcode_sol/tree/master/2652-sum-multiples) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Arpita7007/leetcode_sol/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Arpita7007/leetcode_sol/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpita7007/leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Arpita7007/leetcode_sol/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -273,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Arpita7007/leetcode_sol/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Arpita7007/leetcode_sol/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Arpita7007/leetcode_sol/tree/master/1757-recyclable-and-low-fat-products) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
