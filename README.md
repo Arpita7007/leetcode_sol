@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Arpita7007/leetcode_sol/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Arpita7007/leetcode_sol/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpita7007/leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arpita7007/leetcode_sol/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Arpita7007/leetcode_sol/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Arpita7007/leetcode_sol/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arpita7007/leetcode_sol/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arpita7007/leetcode_sol/tree/master/0342-power-of-four) |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arpita7007/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Arpita7007/leetcode_sol/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
