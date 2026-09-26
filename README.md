@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Arpita7007/leetcode_sol/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Arpita7007/leetcode_sol/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Arpita7007/leetcode_sol/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arpita7007/leetcode_sol/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpita7007/leetcode_sol/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpita7007/leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Arpita7007/leetcode_sol/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Arpita7007/leetcode_sol/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpita7007/leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Arpita7007/leetcode_sol/tree/master/0169-majority-element) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Arpita7007/leetcode_sol/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Arpita7007/leetcode_sol/tree/master/1672-richest-customer-wealth) |
 ## Quicksort
 |  |
