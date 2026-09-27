@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Arpita7007/leetcode_sol/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Arpita7007/leetcode_sol/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Arpita7007/leetcode_sol/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Arpita7007/leetcode_sol/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arpita7007/leetcode_sol/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpita7007/leetcode_sol/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arpita7007/leetcode_sol/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Arpita7007/leetcode_sol/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Arpita7007/leetcode_sol/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpita7007/leetcode_sol/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arpita7007/leetcode_sol/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Arpita7007/leetcode_sol/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Arpita7007/leetcode_sol/tree/master/1672-richest-customer-wealth) |
 ## Quicksort
