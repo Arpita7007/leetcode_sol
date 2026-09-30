@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Arpita7007/leetcode_sol/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Arpita7007/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Arpita7007/leetcode_sol/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Arpita7007/leetcode_sol/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Arpita7007/leetcode_sol/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arpita7007/leetcode_sol/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpita7007/leetcode_sol/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arpita7007/leetcode_sol/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Arpita7007/leetcode_sol/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Arpita7007/leetcode_sol/tree/master/0289-game-of-life) |
 | [1920-build-array-from-permutation](https://github.com/Arpita7007/leetcode_sol/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Arpita7007/leetcode_sol/tree/master/1929-concatenation-of-array) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arpita7007/leetcode_sol/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Arpita7007/leetcode_sol/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Arpita7007/leetcode_sol/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Arpita7007/leetcode_sol/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/Arpita7007/leetcode_sol/tree/master/1672-richest-customer-wealth) |
