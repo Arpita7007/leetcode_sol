@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Arpita7007/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpita7007/leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/Arpita7007/leetcode_sol/tree/master/0454-4sum-ii) |
+| [0498-diagonal-traverse](https://github.com/Arpita7007/leetcode_sol/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Arpita7007/leetcode_sol/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Arpita7007/leetcode_sol/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpita7007/leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Arpita7007/leetcode_sol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arpita7007/leetcode_sol/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Arpita7007/leetcode_sol/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/Arpita7007/leetcode_sol/tree/master/0498-diagonal-traverse) |
 | [1920-build-array-from-permutation](https://github.com/Arpita7007/leetcode_sol/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Arpita7007/leetcode_sol/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpita7007/leetcode_sol/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Arpita7007/leetcode_sol/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Arpita7007/leetcode_sol/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Arpita7007/leetcode_sol/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/Arpita7007/leetcode_sol/tree/master/0498-diagonal-traverse) |
 | [1672-richest-customer-wealth](https://github.com/Arpita7007/leetcode_sol/tree/master/1672-richest-customer-wealth) |
 ## Quicksort
 |  |
